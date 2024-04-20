@@ -1,14 +1,28 @@
-console.log("this is my script file js!!!");
-// const js = "amazing";
-// if (js === "amazing") alert("hello world");
+//coding challenge 1
+//store Mark's mass value and height value
+// const markMassValue = 78;
+// const markHeightValue = 1.69;
 
-console.log(40 + 8 + 23 - 10);
-console.log("jonas");
-console.log(23);
-const EVN_NUMBER = 1;
-const firstName = "Qingbei";
+// //store john's mass value and height value
+// const johnMassValue = 92;
+// const johnHeightValue = 1.95;
 
-const country = "China";
-const continent = "aa";
-const population = "120000000";
-console.log(typeof null);
+// // take 2 parameters and calculate BIM based on that
+// function BMICalculation(mass, height) {
+//   return mass / height ** 2;
+// }
+
+// function BMICalculationVersion(massInKg, heightInMeter) {
+//   return massInKg / (heightInMeter *= heightInMeter);
+// }
+
+// const markBMI = BMICalculation(markMassValue, markHeightValue);
+// const johnBMI = BMICalculationVersion(johnMassValue, johnHeightValue);
+// const markHigherBMI = markBMI > johnBMI;
+
+// if (markHigherBMI) {
+//   console.log(`Mark's BMI '${markBMI}' is higher than John's!'${johnBMI}'`);
+// } else {
+//   console.log(`John's BMI '${johnBMI}' is higher than Mark's!'${markBMI}'`);
+// }
+// // console.log(BMICalculationVersion(johnMassValue, johnHeightValue));
